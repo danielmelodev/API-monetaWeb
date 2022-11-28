@@ -1,0 +1,67 @@
+[{
+  "id": 1,
+  "name": "Banco Daycoval 1º",
+  "avatar": "https://imgs.jusbr.com/publications/images/e341af9e5e54c743344dc3e88e9c8255",
+  "desc": "Financiamento imobiliário com taxas de mercado"
+},
+{
+  "id": 2,
+  "name": "Banco Citibank 2º",
+  "avatar": "https://jurosbaixos.com.br/conteudo/wp-content/uploads/sites/2/2016/06/citi-1280x720.jpg",
+  "desc": "Capital de giro com prazo até 365 dias"
+},
+{
+  "id": 3,
+  "name": "Banco Banrisul 3º",
+  "avatar": "https://www.foregon.com/blog/wp-content/uploads/2020/05/telefonesparacontatobanrisul.jpeg",
+  "desc": "Desconto de cheques"
+},
+{
+  "id": 4,
+  "name": "Banco BMG 4º",
+  "avatar": "https://upload.wikimedia.org/wikipedia/commons/e/e4/BANCO-BMG.png",
+  "desc": "Conta garantida"
+},
+{
+  "id": 5,
+  "name": "Banco do Nordeste 5º",
+  "avatar": "https://play-lh.googleusercontent.com/OwClX4XDFURvC5cQDP5pdYzTUmUxWiF_cWepxCbdVKDGbmqAWkf2SnkkvTPEjoj3lQ",
+  "desc": "Cheque especial"
+},
+{
+  "id": 6,
+  "name": "Banco Original 6º",
+  "avatar": "https://cdn2.downdetector.com/static/uploads/logo/stamp.jpg",
+  "desc": "Cartão de crédito parcelado"
+},
+{
+  "id": 7,
+  "name": "Banco Celetem 7º",
+  "avatar": "https://bxblue.com.br/wp-content/uploads/2018/10/bxblue-contratar-emprestimo-consignado-banco-cetelem-nova-marca.png",
+  "desc": "Aquisição de outros bens"
+},
+{
+  "id": 8,
+  "name": "Banco Poupex 8º",
+  "avatar": "https://portaldoemprestimo.com/wp-content/imagens/2009/06/Poupex-emprestimo-militar.jpg",
+  "desc": "Financiamento imobiliário com taxas de mercado"
+},
+{
+  "id": 9,
+  "name": "Banco Inter 9º",
+  "avatar": "https://play-lh.googleusercontent.com/jaCkHvnjyNSTiID7_xDQATtRBDdH0eHZlnPNKIUWhx4XrrUQveXgtOnz9NiHz2AaCtcN",
+  "desc": "Cheque especial"
+},
+{
+  "id": 10,
+  "name": "Banco Santander 10º",
+  "avatar": "https://www.santander.com.br/sites/WPC_CMS/imagem/21-09-08_194432_santander-logo.png?blobnocache=true",
+  "desc": " Aquisição de veículos"
+},
+{
+  "id": 10,
+  "name": "Banco Santander 10º",
+  "avatar": "https://www.santander.com.br/sites/WPC_CMS/imagem/21-09-08_194432_santander-logo.png?blobnocache=true",
+  "desc": " Aquisição de veículos"
+}
+]

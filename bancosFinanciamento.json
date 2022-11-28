@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "name": "Banco Inter 1º",
+    "avatar": "https://play-lh.googleusercontent.com/jaCkHvnjyNSTiID7_xDQATtRBDdH0eHZlnPNKIUWhx4XrrUQveXgtOnz9NiHz2AaCtcN",
+    "desc": "Financiamento de Casas"
+  },
+  {
+    "id": 2,
+    "name": "Banco Santander 2º",
+    "avatar": "https://www.santander.com.br/sites/WPC_CMS/imagem/21-09-08_194432_santander-logo.png?blobnocache=true",
+    "desc": " Aquisição de veículos"
+  },{
+  "id": 3,
+  "name": "Banco Poupex 3º",
+  "avatar": "https://portaldoemprestimo.com/wp-content/imagens/2009/06/Poupex-emprestimo-militar.jpg",
+  "desc": "Financiamento imobiliário com taxas de mercado"
+},
+{
+  "id": 4,
+  "name": "Banco Banrisul 4º",
+  "avatar": "https://www.foregon.com/blog/wp-content/uploads/2020/05/telefonesparacontatobanrisul.jpeg",
+  "desc": "Financiamento com desconto de cheques"
+},
+{
+  "id": 5,
+  "name": "Banco BMG 5º",
+  "avatar": "https://upload.wikimedia.org/wikipedia/commons/e/e4/BANCO-BMG.png",
+  "desc": "Conta garantida"
+},
+{
+  "id": 6,
+  "name": "Banco do Nordeste 6º",
+  "avatar": "https://play-lh.googleusercontent.com/OwClX4XDFURvC5cQDP5pdYzTUmUxWiF_cWepxCbdVKDGbmqAWkf2SnkkvTPEjoj3lQ",
+  "desc": "Financiamento de Apartamentos"
+},
+{
+  "id": 7,
+  "name": "Banco Original 7º",
+  "avatar": "https://cdn2.downdetector.com/static/uploads/logo/stamp.jpg",
+  "desc": "Cartão de crédito parcelado"
+},
+{
+  "id": 8,
+  "name": "Banco Celetem 8º",
+  "avatar": "https://bxblue.com.br/wp-content/uploads/2018/10/bxblue-contratar-emprestimo-consignado-banco-cetelem-nova-marca.png",
+  "desc": "Financiamento de outros bens"
+},
+{
+  "id": 9,
+  "name": "Banco Daycoval 9º",
+  "avatar": "https://imgs.jusbr.com/publications/images/e341af9e5e54c743344dc3e88e9c8255",
+  "desc": "Financiamento imobiliário"
+},
+{
+  "id": 10,
+  "name": "Banco Citibank 10º",
+  "avatar": "https://jurosbaixos.com.br/conteudo/wp-content/uploads/sites/2/2016/06/citi-1280x720.jpg",
+  "desc": "Capital de giro com prazo até 365 dias"
+}
+]
