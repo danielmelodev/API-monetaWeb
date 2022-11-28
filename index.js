@@ -16,6 +16,9 @@ app.listen(PORT, () => {
   console.log(`Executando API na porta: ` + PORT)
 })
 
+app.get('/', (req,res)=>{
+  res.send('Bem-vindo a API da Moneta Web!')
+})
 app.get('/financiamento', (req,res) =>{
   return res.json(bancosFinanciamento)
 })
